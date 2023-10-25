@@ -4,7 +4,7 @@ Compiled on Debian 8.7.1 x86_64 (amd64)
 Download here:
 download part1 + part2 and unpack
 ```bash
-unar filename.part1.rar
+unar x11rdp_0.9.1+master-1_amd64.part1.rar
 ```
 
 mirror:
